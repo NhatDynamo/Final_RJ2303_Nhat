@@ -1,0 +1,16 @@
+.cart {
+    color: white;
+    font-size: 15px;
+    height: 40px;
+  }
+  
+.cart:hover,
+.btn-user:hover {
+    cursor: pointer;
+}
+  
+.btn-user {
+    color: white;
+    font-size: 15px;
+    height: 40px;
+}

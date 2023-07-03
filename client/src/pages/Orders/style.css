@@ -1,0 +1,11 @@
+.active-option {
+  border-bottom: 1px solid #007bff;
+}
+
+.background-color-page {
+  background-color: #ededed;
+}
+
+.content-bg {
+  background-color: white;
+}
